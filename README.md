@@ -10,7 +10,7 @@ and science, but also enriches the
 learning experience by incorporating a variety of
 relevant to the theme being discussed.
 
-PDF Aplikasi
+PDF Panduan Aplikasi
 https://drive.google.com/file/d/1W5TYwUGtwpmFfmFF4FkkKTsIySPtgPZw/view?usp=sharing
 
 Poster Aplikasi
