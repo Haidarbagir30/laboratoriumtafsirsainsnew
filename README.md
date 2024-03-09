@@ -12,5 +12,5 @@ relevant to the theme being discussed.
 
 Panduan Aplikasi 
 
-![Pengenalan aplikasi](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/0eb2b05c-ceaa-438b-ae0f-ecdb81fe74f0)
+![Pengenalan aplikasi](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/0eb2b05c-ceaa-438b-ae0f-ecdb81fe74f0)  ![Menu Utama](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/afe22159-7939-43a0-9a20-cd28c3b31748)
 
