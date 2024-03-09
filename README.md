@@ -16,7 +16,5 @@ Panduan Aplikasi
 
 ![Fitur Pencarian](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/5931b4cd-f0f6-43c1-878a-1a0b8841c285)  ![Halaman Detail](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/687f43b8-90ab-4dae-9c03-186fc6aad87c)
 
-![Halaman Materi](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/8d0c81f6-8d72-4da6-ade0-b0f7a03b07e1) ![Profil Penulis](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/c0919b0a-4e4b-43d7-ab92-a38fb9e6a449)
-
-
+![Halaman Materi](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/8d0c81f6-8d72-4da6-ade0-b0f7a03b07e1) ![Profil Penulis](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/ffd11116-f3ba-47d6-ae73-e0079b01d25b)
 
