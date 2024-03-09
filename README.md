@@ -1,5 +1,4 @@
-#Application Laboratorium Tafsir Sains
-
+Application Laboratorium Tafsir Sains
 
 Science Interpretation Laboratory Mobile Learning Application
 provides a platform that not only
@@ -10,3 +9,5 @@ app not only presents the connection between the Qur'ān
 and science, but also enriches the
 learning experience by incorporating a variety of
 relevant to the theme being discussed.
+
+
