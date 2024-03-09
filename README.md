@@ -10,4 +10,7 @@ and science, but also enriches the
 learning experience by incorporating a variety of
 relevant to the theme being discussed.
 
+Panduan Aplikasi 
+
+![Pengenalan aplikasi](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/0eb2b05c-ceaa-438b-ae0f-ecdb81fe74f0)
 
