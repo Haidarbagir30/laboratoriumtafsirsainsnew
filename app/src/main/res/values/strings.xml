@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">Tafsir Sains App</string>
+    <string name="sample_book_title">Rich Dad Poor Dad</string>
+    <string name="sample_book_synopsis">Rich Dad Poor Dad is a personal finance book written by Robert Kiyosaki. The book is based on the author\'s experience of growing up with two father figures, his biological father (Poor Dad) who was highly educated but struggled with finances, and his best friend\'s father (Rich Dad) who was a successful entrepreneur and investor.  The book teaches readers about the importance of financial education and building wealth through assets that generate passive income. Kiyosaki argues that the traditional education system focuses too much on academic education, but neglects financial education, which is crucial for achieving financial independence and success.  Through personal anecdotes and practical examples, Kiyosaki explains the difference between assets and liabilities, the importance of financial literacy</string>
+    <string name="description_1">Rich Dad Poor Dad is a personal finance book written by Robert Kiyosaki. The book is based on the author\'s experience of growing up with two father figures, his biological father (Poor Dad) who was highly educated but struggled with finances, and his best friend\'s father (Rich Dad) who was a successful entrepreneur and investor.  The book teaches readers about the importance of financial education and building wealth through assets that generate passive income. Kiyosaki argues that the traditional education system focuses too much on academic education, but neglects financial education, which is crucial for achieving financial independence and success.  Through personal anecdotes and practical examples, Kiyosaki explains the difference between assets and liabilities, the importance of financial literacy</string>
+    <string name="description_2">James Clear\'s book is a comprehensive guide to building good habits and breaking bad ones. The author shares practical strategies and scientific research on how small changes can lead to big results. The book also emphasizes the importance of creating a system of habits that can be sustained over time.</string>
+    <string name="description_3">In this self-help book, Dr. Phil McGraw offers a step-by-step guide to help readers discover their true selves and become their best selves. The book provides practical advice on how to overcome negative self-talk, manage emotions, and set achievable goals.</string>
+    <string name="description_4">This book by Jolenta Greenberg and Kristen Meinzer is a comical and interesting self improvement guide in light of the hosts encounters with testing different self improvement counsel. The creators give experiences into what works and what does not with regards to personal growth, and proposition functional ways to accomplish individual growth.</string>
+    <string name="description_5">In this book, the author Jürgen Salenbacher challenges readers to think outside the box and embrace creativity. The book provides practical strategies for developing creative thinking skills and unlocking one\'s creative potential.</string>
+    <string name="description_6">This fictional book by Zoey Castile is a romance novel about a burlesque dancer who falls in love with a shy, reserved man. The book explores themes of self-discovery, acceptance, and love.</string>
+    <string name="description_7">In this book, psychologist Jordan B. Peterson offers 12 principles for living a meaningful life. The book provides insights into the human psyche, philosophy, and religion, and offers practical advice for personal growth and fulfillment.</string>
+    <string name="description_8">In this book about reading, author Rohan Joshi shares his passion for reading and provides insights into the benefits of reading. The book offers practical advice on how to develop a reading habit, choose books, and make the most of reading time.</string>
+    <string name="description_9">In this self-help book, author Yasmin Mogahed offers insights into overcoming emotional pain and finding inner peace. The book draws on Islamic teachings and provides practical advice on developing self-awareness, forgiveness, and gratitude.</string>
+    <string name="description_10">In this book, author Firas Alkhateeb provides a comprehensive overview of Islamic history, with a focus on the lesser-known aspects of the religion. The book provides insights into the contributions of Muslims to science, philosophy, and art, and challenges misconceptions about Islam.</string>
+
+
+    <string name="example">Example</string>
+    <string name="arab">عربي</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="english">English</string>
+
+    <string name="pyscologiarab">والفرث هو األشياء املأكولة واملنهضمة بعض االهنضام ىف الكرش، ولذا يطلق عليه أحياان ثقل الكرش،
+فإذا خرجت من الكرش مسيت رواث.</string>
+
+
+    <string name="oceanarab">قال البشريي: هو الذي ال يدرك قعره واللجة معظم املاء، واجلمع جلج، والتج البحر إذا تالطمت أمواجه
+تشري هذه اآلية الكرمية إىل الظلمة التامة فوق قيعان البحار العميقة واحمليطات، مؤكدة أهنا ظلمة مركبة،
+يلعب كل من السحب، واألمواج السطحية، واألمواج الداخلية دورا أساسيا ىف إحدائها.</string>
+
+    <string name="zologyarab">جاء اخلطاب يف هذه اآلايت موجها إىل أنثى عسل النحل )من الشغالت( ألهنا هي الىت تبىن البيوت، وهى
+الىت تطري إىل عشرات الكيلومرتات لتجمع رحيق األزهر وحبوب اللقاح من العديد من النبااتت املزهرة، وهى
+الىت أعطاها هللا تعاىل القدرة على إنتاج ذلك الشراب املعروف إمجاال ابسم عسل النحل.</string>
+
+    <string name="embrioarab">النطفة ىف اللغة هي القليل من املاء الذى يعدل قطرة أو بضع قطرات ومجعها )نطف( و
+)نطاف(، وقد استخدمها القرآن الكرمي للتعبري عن خلية التكاثر (gamete )سواء كانت مؤنثة
+(ovum )أو مذكرة (sperm). وقد عرف املفسرون النطفة األمشاج أبهنا: النطفة املختلطة الىت اختلط
+وامتزج فيها ماء الرجال هبا املرأة.</string>
+
+    <string name="hidrologiarab">تتكون املزن أو السحب املمطرة ابرتفاع اهلواء احململ ييخار املاء إىل األجزاء العليا من نطاق الرجع. وهذا
+النطاق تثرية دورة املاء حول األرض ابستمرار ببخار املاء املتصاعد من فوهات الرباكني،</string>
+
+    <string name="botaniarab">تعرف الثمرة ىف النبااتت املزهرة أبهنا املتاع )املبيض( الناضج للزهرة. وبعض الزهرة مفردة اجلنس، والبعض
+اآلخر يضم كال من أعضاء التذكري والتأنيث، وعندما يتم إخصاب الزهرة تندمج التوااتن الذكرية واألنثوية.ز
+وبنجاج اندماجهما يتكون جنني حى للنبات ىف داخل البذور حماط ابلغذاء الالزم لنموه</string>
+
+    <string name="fisikaarab">أشار تطور االكتشافات العلمية يف القرن العشرين إىل أنه يزال من املمكن تقسيم الذرات إىل جسيمات
+أصغر،</string>
+
+    <string name="astronoutarab">النجوم هى أجرم مساوية منتشرة ابلسماء الدنيا، كروية أو شبه كروية، غازية، ملتهبة، مضيئة بذاهتا، متماسكة
+بقوة اجلاذية.</string>
+
+    <string name="knowlegdearab">)البنانة( واحدة )البنان( وهي أطراف األصابع، وقد ثبت ابلدراسة املستفيضة أن لكل بنان ىف جسم كل فرد
+ممن بىن اإلنسان بصمة خاصة به، هلا من األشكال واهليئات التفاصيل احملددة ما مييزها عن غريها من البصمات.</string>
+
+    <string name="medicinearab">اعترب غالبية املفسرين أن املقصود هبذا الشراب هو عسل النحل، علما أبن ذكر الشراب مطلقا يشمل كل ما
+خيرج من بطون الشغاالت ومنه العسل، والغذاء امللكى، وسم النحل، وخبز النحل، ومشع النحل.</string>
+
+    <string name="geologiarab">عرفت املوسوعة الربيطانية اجلبل أبنه كتلة من األرض تربز فوق ما حييط هبا، وهو أعلى من التل، ومجيع
+التعريفات احلالية للجبال تنحصر يف الشكل اخلارجي هلذه التضاريس، دون أدىن إشارة المتداداهتا حتت
+السطح، والىت ثبت أخريا أهنا تزيد على االرتفاع الظاهر بعدة مرات.</string>
+
+    <string name="biologyarab">كل شيء حي يأتي من الماء يشرح القرآن في الآية التالية:
+أَوَ لَمۡ يَرَ ٱلَّذِينَ كَفَرُوٓاْ أَنَّ أَنَّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ كَانَتَا رَتۡقٗا فَفَتَقۡنَٰهُمَاۖ وَجَعَلۡنَا مِنَ ٱلۡمَآءِ كُلَّ شَيۡءٍ حَيٍّۚ أَفَلَا يُؤۡمِنُونَ٣ (الأنبيآء: 30)
+</string>
+
+    <string name="astronomyenglish">A star is a celestial body scattered in the near sky that is round or semi-round, flaming gas,
+shining objects, and linked to the force of gravity. By studying the starlight that gets to us, it
+can be known a number of its natural and chemical characters, such as the degree of shine,
+light power, heat temperature, mass weight, position, rotational and orbital speed, chemical
+composition, level of nuclear interaction and various other characters</string>
+
+    <string name="biologyenglish">Advances in science in this modern era tell us that the cytoplasm (the basic substance of a
+cell) is 80% of water. Modern research also reveals that in most organisms, 50-90% of their
+body is made up of water and every living creature definitely needs water.</string>
+
+    <string name="botanyenglish">This fruit consists of one flower and pistil only, consisting of either one carpel or several
+carpels. Each of these simple fruits contains live plant embryos. Embryos and nutrient deposits
+and protective skin are known by the name of seedlings, or seeds. Through embryos, the
+sustainability of plant existence continues to be guaranteed.</string>
+
+    <string name="embryologyenglish">The composition of the human body as a whole resembles the chemical structure of the soil
+mixed with water (at-thin) with excess levels of oxygen, hydrogen, carbon, and phosphorus.
+That is because of the dominance of water elements in the human body by 54% to 70%.</string>
+
+    <string name="generalknowledgeenglish">The word بنان with a single form بنانة is the fingertips. Research proves that each finger on the
+human body has a different fingerprint, which has a certain shape and detail that
+distinguishes it from other peoples fingerprints.</string>
+
+    <string name="geoenglish">Field research shows that the movement of the earths layer plates plays an important role in
+building very strong mountain circuits and arrangements in terms of folds and fragments.
+When two slabs of rock layers formed at the bottom of the ocean collide, a series of volcanic
+islands form in the form of curved above the ocean floor.</string>
+
+    <string name="hidroenglish">Rain clouds are formed due to the rise of water grain-carrying air to the highest part of the
+Troposphere zone. This zone enriches the continuous circulation of the hydrology of water
+around the earth with moisture rising from mountain craters, evaporation through the suns
+heat at sea level, oceans, lakes, rivers, and other puddles. So are plants, human and animal
+breathing, and their fluids.</string>
+
+    <string name="marineenglish">The verse above indicates total darkness at the deepest bottom of the sea and ocean and
+confirms that it is multi-layered darkness, where clouds, waves at sea level, and seabed waves
+play a very important role in the occurrence of such darkness.</string>
+
+    <string name="medicineenglish">The majority of commentators argue that the meaning of syarab (drink) is honey because the
+word syarab generally covers everything that comes out of the stomach of the worker female
+bee. Among them are honey, queen bee nutrition, bee venom, wax, sap, and honey adhesive.</string>
+
+    <string name="physicsenglish">In ancient times, a theory widely known as the Atomic Theory was revealed. This theory was first
+put forward by the Greeks, who were examined by a scholar called Democritus, who lived about
+23 centuries ago.</string>
+
+    <string name="physiologyenglish">The Arabic word الننعام is basically defined as the camel, although its meaning also includes
+sheep and goats. Al-Anam is one of the mammals that Allah has given him the potential to
+give milk from among his feces and blood to suckling his children to the great.</string>
+
+    <string name="zoologyenglish">The message of this verse is indicated to the female honeybee (worker) because she who
+works to build the nest, flies tens of kilometers to collect flower honey and flower seed
+powder from various plants. In addition, this female bee is given by Allah SWT the ability to
+produce liquids known as honey.</string>
+    <string name="get_started">Get Started</string>
+    <string name="back_button_description">back\n</string>
+    <string name="search">Search </string>
+    <string name="language_button">language button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="read_book">Read Book</string>
+    <string name="recomended_nbook">Recomended\nBook</string>
+    <string name="arablanguage">Arab</string>
+    <string name="englishlanguage">English</string>
+    <string name="indonesialanguage">Indonesia</string>
+
+
+</resources>
+

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173857651094",
+    "project_id": "laboratorium-tafsir-sains-v1",
+    "storage_bucket": "laboratorium-tafsir-sains-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173857651094:android:36d1daf774848c9c2545b7",
+        "android_client_info": {
+          "package_name": "com.learning.tafsirsainsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxjvojNYWhn_7_7MO4gWaQU115ZlFX164"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
