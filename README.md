@@ -21,6 +21,6 @@ https://drive.google.com/file/d/10_9dWGWMCrnXm-qc22gQh8sEBTylbacR/view?usp=shari
 
 Application Guide
 
-![Pengenalan aplikasi](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/0eb2b05c-ceaa-438b-ae0f-ecdb81fe74f0)  ![Menu Utama](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/afe22159-7939-43a0-9a20-cd28c3b31748) ![Fitur Pencarian](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/5931b4cd-f0f6-43c1-878a-1a0b8841c285)  ![Halaman Detail](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/687f43b8-90ab-4dae-9c03-186fc6aad87c) ![Halaman Materi](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/8d0c81f6-8d72-4da6-ade0-b0f7a03b07e1)
+![Pengenalan aplikasi](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/0eb2b05c-ceaa-438b-ae0f-ecdb81fe74f0)  ![Menu Utama](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/afe22159-7939-43a0-9a20-cd28c3b31748) ![Fitur Pencarian](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/5931b4cd-f0f6-43c1-878a-1a0b8841c285)  ![Halaman Detail](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/687f43b8-90ab-4dae-9c03-186fc6aad87c) ![Halaman Materi](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/8d0c81f6-8d72-4da6-ade0-b0f7a03b07e1) ![Penulis](https://github.com/Haidarbagir30/Tafsirsainsapp/assets/77045915/8c9b813e-40b8-4306-93af-cb1fa6381eab)
 
 
